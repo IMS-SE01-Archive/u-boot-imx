@@ -1,0 +1,6 @@
+MXQIMSSE01 BOARD
+M:	Fabio Estevam <fabio.estevam@nxp.com>
+S:	Maintained
+F:	board/advantech/mx6qimsse01/
+F:	include/configs/mx6qimsse01.h
+F:	configs/mx6qimsse01_defconfig
